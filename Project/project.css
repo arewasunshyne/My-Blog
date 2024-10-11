@@ -1,0 +1,17 @@
+.header {
+    padding: 80px;
+    background-color: blue;
+}
+
+
+#head1 {
+    font-style: oblique;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+body {
+    margin: 30px;
+}
+
